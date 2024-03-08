@@ -1,0 +1,3 @@
+[submodule "hotel-reservation"]
+	path = hotel-reservation
+	url = http://github.com/felipemagrassi/hotel-reservation
